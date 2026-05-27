@@ -215,27 +215,27 @@ Validated successful deployment through browser access and backend service commu
 ---
 
 ## Auto Scaling Group
-![ASG](screenshots/autoscaling/asg.png)
+![ASG](screenshots/autoscaling.png)
 
 ---
 
 ## Route 53 Configuration
-![Route53](screenshots/route53/route53.png)
+![Route53](screenshots/route53.png)
 
 ---
 
 ## S3 Artifact Upload
-![S3](screenshots/s3/s3.png)
+![S3](screenshots/s3.png)
 
 ---
 
 ## Security Groups
-![SecurityGroups](screenshots/security-groups/security-groups.png)
+![SecurityGroups](screenshots/security-groups.png)
 
 ---
 
 ## Application Deployment
-![Deployment](screenshots/deployment/application.png)
+![Deployment](screenshots/deployment.png)
 
 ---
 
