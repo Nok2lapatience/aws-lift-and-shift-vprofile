@@ -210,7 +210,7 @@ Validated successful deployment through browser access and backend service commu
 ---
 
 ## EC2 Instances
-![EC2](screenshots/ec2/ec2.png)
+![EC2](screenshots/ec2.png)
 
 ---
 
